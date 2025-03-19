@@ -14,6 +14,28 @@
 
 
 fun main() {
-    println("Hello World!")
+    println("Hey, Welcome to..")
+
+    println(" _____    ___       __       ____           ___       __     \n" +
+            "/\\  __`\\ /\\_ \\     /\\ \\     /\\  _`\\        /\\_ \\     /\\ \\    \n" +
+            "\\ \\ \\/\\ \\\\//\\ \\    \\_\\ \\    \\ \\ \\L\\_\\    __\\//\\ \\    \\_\\ \\   \n" +
+            " \\ \\ \\ \\ \\ \\ \\ \\   /'_` \\    \\ \\ \\L_L   / __`\\ \\ \\   /'_` \\  \n" +
+            "  \\ \\ \\_\\ \\ \\_\\ \\_/\\ \\L\\ \\    \\ \\ \\/, \\/\\ \\L\\ \\_\\ \\_/\\ \\L\\ \\ \n" +
+            "   \\ \\_____\\/\\____\\ \\___,_\\    \\ \\____/\\ \\____/\\____\\ \\___,_\\\n" +
+            "    \\/_____/\\/____/\\/__,_ /     \\/___/  \\/___/\\/____/\\/__,_ /")
+
+
+    println()
+    println()
+    println("Old Gold is a game about move a coins and win.")
+
+    println()
+    println()
+    println("Players, here are the information's how u can play this game.")
+
+    println("1.Players have square grid")
+    println("2.A number of coins are placed at random positions on a one-dimensional.")
+    println("3.One of the coins is a gold coin.")
+    println("4.You guys have a  grid of 20 squares, and six coins (5 normal, 1 gold)")
 }
 

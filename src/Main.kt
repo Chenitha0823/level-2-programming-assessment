@@ -32,10 +32,38 @@ fun main() {
     println()
     println()
     println("Players, here are the information's how u can play this game.")
-
+    println()
     println("1.Players have square grid")
     println("2.A number of coins are placed at random positions on a one-dimensional.")
     println("3.One of the coins is a gold coin.")
     println("4.You guys have a  grid of 20 squares, and six coins (5 normal, 1 gold)")
+
+    println()
+    println("Here are the Game rules")
+    println()
+    println("1. Players can take a turn.")
+    println("2. A turn can be either- Removing a coin from the left square (if there is one) " +
+            "or Sliding any coin left")
+
+    println("3. Coins can slide any number of empty squares and it cannot jump on or over another coin.")
+
+    println()
+    println("player 1 enter your name here :- ")
+    var player1= readln()
+    println("Welcome to the game $player1 ")
+
+    println()
+    println("Player 2 enter your name here :- ")
+    var player2= readln()
+    println("Welcome to the game $player2 ")
+
+
+
+
+
+
+
 }
+
+
 
